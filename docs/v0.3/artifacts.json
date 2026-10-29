@@ -1,0 +1,10 @@
+[
+  {
+    "Path": "src-tauri/target/release/only-monitor.exe",
+    "Hash": "ED45EB832AE7C3F9B9551290EA172B3FF8BCE942D4D1F01E91D65C8F88D73E0F"
+  },
+  {
+    "Path": "src-tauri/target/release/bundle/nsis/Only Monitor_0.3.0_x64-setup.exe",
+    "Hash": "36CF9C79E380990138C8644DB8C99FF0B237ABC9D21E9462728AF681A4822BF6"
+  }
+]

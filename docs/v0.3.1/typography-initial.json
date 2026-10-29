@@ -1,0 +1,107 @@
+{
+  "dpr": 1,
+  "viewportScale": 1,
+  "variant": "font",
+  "styles": [
+    {
+      "element": "sample-title",
+      "pane": "probe-pane original",
+      "font": "600 33px / 39.6px \"Segoe UI Variable\", \"Segoe UI\", \"Microsoft YaHei\", sans-serif",
+      "fontFamily": "\"Segoe UI Variable\", \"Segoe UI\", \"Microsoft YaHei\", sans-serif",
+      "transform": "none",
+      "zoom": "1",
+      "textRendering": "optimizelegibility"
+    },
+    {
+      "element": "sample-digits",
+      "pane": "probe-pane original",
+      "font": "",
+      "fontFamily": "\"Segoe UI Variable\", \"Segoe UI\", \"Microsoft YaHei\", sans-serif",
+      "transform": "none",
+      "zoom": "1",
+      "textRendering": "optimizelegibility"
+    },
+    {
+      "element": "muted sample-chinese",
+      "pane": "probe-pane original",
+      "font": "10px / 17px \"Segoe UI Variable\", \"Segoe UI\", \"Microsoft YaHei\", sans-serif",
+      "fontFamily": "\"Segoe UI Variable\", \"Segoe UI\", \"Microsoft YaHei\", sans-serif",
+      "transform": "none",
+      "zoom": "1",
+      "textRendering": "optimizelegibility"
+    },
+    {
+      "element": "sample-title",
+      "pane": "probe-pane candidate font",
+      "font": "600 33px / 39.6px \"Segoe UI\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", sans-serif",
+      "fontFamily": "\"Segoe UI\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", sans-serif",
+      "transform": "none",
+      "zoom": "1",
+      "textRendering": "optimizelegibility"
+    },
+    {
+      "element": "sample-digits",
+      "pane": "probe-pane candidate font",
+      "font": "",
+      "fontFamily": "\"Segoe UI\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", sans-serif",
+      "transform": "none",
+      "zoom": "1",
+      "textRendering": "optimizelegibility"
+    },
+    {
+      "element": "muted sample-chinese",
+      "pane": "probe-pane candidate font",
+      "font": "10px / 17px \"Segoe UI\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", sans-serif",
+      "fontFamily": "\"Segoe UI\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", sans-serif",
+      "transform": "none",
+      "zoom": "1",
+      "textRendering": "optimizelegibility"
+    }
+  ],
+  "fonts": [
+    {
+      "selector": ".original .sample-title",
+      "fonts": [
+        {
+          "familyName": "Segoe UI Semibold",
+          "postScriptName": "SegoeUI-Semibold",
+          "isCustomFont": false,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "selector": ".original .sample-chinese",
+      "fonts": [
+        {
+          "familyName": "Microsoft YaHei",
+          "postScriptName": "MicrosoftYaHei",
+          "isCustomFont": false,
+          "glyphCount": 46
+        }
+      ]
+    },
+    {
+      "selector": ".candidate .sample-title",
+      "fonts": [
+        {
+          "familyName": "Segoe UI Semibold",
+          "postScriptName": "SegoeUI-Semibold",
+          "isCustomFont": false,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "selector": ".candidate .sample-chinese",
+      "fonts": [
+        {
+          "familyName": "Microsoft YaHei UI",
+          "postScriptName": "MicrosoftYaHeiUI",
+          "isCustomFont": false,
+          "glyphCount": 46
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "migrationDidNotRewriteUntilSave": true,
+  "startupDidNotSubmitDraft": true,
+  "logicalCores": 8,
+  "memoryBytes": 34275844096,
+  "volumes": 5,
+  "interfaces": 2,
+  "layouts": [
+    {
+      "page": "Settings",
+      "viewport": 1320,
+      "content": 1320
+    },
+    {
+      "page": "Settings",
+      "viewport": 900,
+      "content": 885
+    },
+    {
+      "page": "Settings",
+      "viewport": 760,
+      "content": 745
+    },
+    {
+      "page": "Overview",
+      "viewport": 1320,
+      "content": 1305
+    },
+    {
+      "page": "Overview",
+      "viewport": 900,
+      "content": 885
+    },
+    {
+      "page": "Overview",
+      "viewport": 760,
+      "content": 745
+    },
+    {
+      "page": "Network",
+      "viewport": 1320,
+      "content": 1305
+    },
+    {
+      "page": "Network",
+      "viewport": 900,
+      "content": 885
+    },
+    {
+      "page": "Network",
+      "viewport": 760,
+      "content": 745
+    }
+  ],
+  "errors": [],
+  "settings": {
+    "schemaVersion": 2,
+    "samplingIntervalSecs": 1,
+    "closeBehavior": "hideToTray",
+    "selectedNetworkInterface": null,
+    "hideOnAutostart": true
+  }
+}

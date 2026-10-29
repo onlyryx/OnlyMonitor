@@ -1,0 +1,18 @@
+node_modules/
+dist/
+src-tauri/target/
+src-tauri/vendor/auto-launch/target/
+src-tauri/gen/schemas/
+.tools/
+.playwright-mcp/
+.superpowers/
+docs/rollback/**/*.exe
+# 本机验收截图可能包含设备与系统信息，不纳入公开仓库。
+docs/*.png
+docs/v0.2/*.png
+docs/v0.3/*.png
+docs/v0.3.1/*-native.png
+# 本机运行时逐条采样记录保留在本地。
+docs/**/*.jsonl
+*.log
+test-results/

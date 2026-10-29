@@ -1,0 +1,31 @@
+{
+  "version": "0.3.1",
+  "nativeLayoutCases": 12,
+  "widths": [
+    760,
+    900,
+    1320
+  ],
+  "pages": [
+    "Overview",
+    "Network",
+    "Storage",
+    "Settings"
+  ],
+  "minimumVisibleTextPx": 12,
+  "allChecksPassed": true,
+  "userConfirmedNativeReadability": true,
+  "configurationUnchanged": true,
+  "artifacts": [
+    {
+      "path": "src-tauri/target/release/only-monitor.exe",
+      "bytes": 9672704,
+      "sha256": "F2E3D4CD9DFB9A68FA77687C713C288B8D8A4A1C77C2C4047666403966E7BD8A"
+    },
+    {
+      "path": "src-tauri/target/release/bundle/nsis/Only Monitor_0.3.1_x64-setup.exe",
+      "bytes": 2289713,
+      "sha256": "B4F0B473856992D85868795E412B787D653C072813950924A2F5063766D31AE5"
+    }
+  ]
+}

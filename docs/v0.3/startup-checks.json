@@ -1,0 +1,72 @@
+[
+  {
+    "label": "manual-second-instance-restored-marked-process",
+    "atMs": 1792771357126,
+    "windowVisible": true,
+    "settings": {
+      "schemaVersion": 2,
+      "samplingIntervalSecs": 2,
+      "closeBehavior": "exit",
+      "selectedNetworkInterface": null,
+      "hideOnAutostart": true
+    },
+    "historyCount": 30,
+    "sampledAtMs": 1792771356267
+  },
+  {
+    "label": "marked-startup-hidden",
+    "atMs": 1792771422072,
+    "windowVisible": false,
+    "settings": {
+      "schemaVersion": 2,
+      "samplingIntervalSecs": 2,
+      "closeBehavior": "exit",
+      "selectedNetworkInterface": null,
+      "hideOnAutostart": true
+    },
+    "historyCount": 3,
+    "sampledAtMs": 1792771421166
+  },
+  {
+    "label": "marked-second-instance-restores-existing",
+    "atMs": 1792771438978,
+    "windowVisible": true,
+    "settings": {
+      "schemaVersion": 2,
+      "samplingIntervalSecs": 2,
+      "closeBehavior": "exit",
+      "selectedNetworkInterface": null,
+      "hideOnAutostart": true
+    },
+    "historyCount": 11,
+    "sampledAtMs": 1792771437305
+  },
+  {
+    "label": "marked-startup-visible-when-preference-off",
+    "atMs": 1792771478150,
+    "windowVisible": true,
+    "settings": {
+      "schemaVersion": 2,
+      "samplingIntervalSecs": 2,
+      "closeBehavior": "exit",
+      "selectedNetworkInterface": null,
+      "hideOnAutostart": false
+    },
+    "historyCount": 14,
+    "sampledAtMs": 1792771477414
+  },
+  {
+    "label": "visible-soak-operational-check",
+    "atMs": 1792771683527,
+    "windowVisible": true,
+    "settings": {
+      "schemaVersion": 2,
+      "samplingIntervalSecs": 1,
+      "closeBehavior": "hideToTray",
+      "selectedNetworkInterface": null,
+      "hideOnAutostart": true
+    },
+    "historyCount": 59,
+    "sampledAtMs": 1792771683287
+  }
+]

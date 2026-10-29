@@ -1,0 +1,38 @@
+{
+  "cpuPercent": 20.816414,
+  "logicalCores": 8,
+  "totalMemoryBytes": 17095974912,
+  "disks": 5,
+  "interfaces": 2,
+  "warnings": [],
+  "sampledAtMs": 1792670518553,
+  "sampleIntervalsMs": [
+    1011,
+    1011,
+    1010,
+    1032,
+    1014,
+    1030,
+    1007,
+    1013
+  ],
+  "layouts": [
+    {
+      "viewport": 1320,
+      "content": 1320
+    },
+    {
+      "viewport": 900,
+      "content": 885
+    },
+    {
+      "viewport": 760,
+      "content": 745
+    },
+    {
+      "viewport": 480,
+      "content": 465
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,66 @@
+{
+  "visible": {
+    "observedSeconds": 636.382,
+    "samples": 64,
+    "hostCpuPercent": {
+      "min": 0.019330215756136183,
+      "max": 0.7912858201581028,
+      "median": 0.09691004267143
+    },
+    "familyCpuPercent": {
+      "min": 0.7538784144893113,
+      "max": 3.6669342885375498,
+      "median": 1.1442197894945885
+    },
+    "hostPrivateMiB": {
+      "min": 42.25,
+      "max": 43.22,
+      "median": 42.56
+    },
+    "familyPrivateMiB": {
+      "min": 405.89,
+      "max": 669.11,
+      "median": 413.69
+    },
+    "hostPrivateFirstLastMiB": [
+      42.25,
+      42.6
+    ],
+    "familyPrivateFirstLastMiB": [
+      408.08,
+      414.6
+    ]
+  },
+  "hidden": {
+    "observedSeconds": 647.248,
+    "samples": 65,
+    "hostCpuPercent": {
+      "min": 0.019280602171767025,
+      "max": 0.1542600454141574,
+      "median": 0.0774819002281067
+    },
+    "familyCpuPercent": {
+      "min": 0.019280602171767025,
+      "max": 0.1542600454141574,
+      "median": 0.09637446955491959
+    },
+    "hostPrivateMiB": {
+      "min": 42.54,
+      "max": 42.6,
+      "median": 42.6
+    },
+    "familyPrivateMiB": {
+      "min": 429.45,
+      "max": 431.3,
+      "median": 430.83
+    },
+    "hostPrivateFirstLastMiB": [
+      42.6,
+      42.57
+    ],
+    "familyPrivateFirstLastMiB": [
+      430.84,
+      429.45
+    ]
+  }
+}

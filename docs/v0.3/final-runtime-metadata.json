@@ -1,0 +1,16 @@
+{
+  "checkedAtMs": 1793001937590,
+  "logicalCores": 8,
+  "memoryBytes": 34275844096,
+  "volumes": 5,
+  "interfaces": 2,
+  "settings": {
+    "schemaVersion": 2,
+    "samplingIntervalSecs": 1,
+    "closeBehavior": "hideToTray",
+    "selectedNetworkInterface": null,
+    "hideOnAutostart": true
+  },
+  "configError": null,
+  "trayError": null
+}

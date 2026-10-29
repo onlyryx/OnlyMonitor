@@ -1,0 +1,34 @@
+[
+  {
+    "check": "v0.2-to-v0.3-keeps-disabled",
+    "passed": true
+  },
+  {
+    "check": "interactive-own-registration-upgrade",
+    "passed": true
+  },
+  {
+    "check": "update-mode-own-registration-upgrade",
+    "passed": true
+  },
+  {
+    "check": "own-registration-removed-on-uninstall",
+    "passed": true
+  },
+  {
+    "check": "v0.2-interactive-upgrade-preserves-foreign-expand-string",
+    "passed": true
+  },
+  {
+    "check": "v0.3-interactive-upgrade-preserves-foreign-expand-string",
+    "passed": true
+  },
+  {
+    "check": "foreign-expand-string-survives-uninstall",
+    "passed": true
+  },
+  {
+    "check": "foreign-binary-survives-uninstall-byte-for-byte",
+    "passed": true
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "logicalCores": 8,
+  "memoryBytes": 17095974912,
+  "volumes": 5,
+  "interfaces": 2,
+  "historyCount": 21,
+  "settings": {
+    "schemaVersion": 1,
+    "samplingIntervalSecs": 1,
+    "closeBehavior": "hideToTray",
+    "selectedNetworkInterface": null
+  },
+  "layouts": [
+    {
+      "viewport": 1320,
+      "content": 1320
+    },
+    {
+      "viewport": 900,
+      "content": 885
+    },
+    {
+      "viewport": 760,
+      "content": 745
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,17 @@
+{
+  "atMs": 1793005433821,
+  "windowVisible": false,
+  "sampledAtMs": 1793005433333,
+  "historyCount": 59,
+  "historySpanMs": 59137,
+  "lastError": null,
+  "footer": " LOCAL FIRST / 不上传监控数据采样时间：17:03:49 · v0.3.0 Alpha",
+  "documentVisible": "visible",
+  "settings": {
+    "schemaVersion": 2,
+    "samplingIntervalSecs": 1,
+    "closeBehavior": "hideToTray",
+    "selectedNetworkInterface": null,
+    "hideOnAutostart": true
+  }
+}

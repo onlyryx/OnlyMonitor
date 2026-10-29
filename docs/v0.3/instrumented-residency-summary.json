@@ -1,0 +1,34 @@
+{
+  "visible": {
+    "observedSeconds": 405.006,
+    "samples": 41,
+    "hostCpuPercent": {
+      "min": 0.019246403232163974,
+      "max": 0.15439723320158105,
+      "median": 0.09633644076156654
+    },
+    "familyCpuPercent": {
+      "min": 0.6569022653081412,
+      "max": 1.4245145870293712,
+      "median": 0.9076218607870279
+    },
+    "hostPrivateMiB": {
+      "min": 9.57,
+      "max": 10.35,
+      "median": 10.32
+    },
+    "familyPrivateMiB": {
+      "min": 356.13,
+      "max": 434.58,
+      "median": 396.55
+    },
+    "hostPrivateFirstLastMiB": [
+      10.32,
+      10.35
+    ],
+    "familyPrivateFirstLastMiB": [
+      356.13,
+      428.46
+    ]
+  }
+}
