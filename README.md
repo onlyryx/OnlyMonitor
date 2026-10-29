@@ -162,8 +162,6 @@ npm run typecheck
 
 v0.4 建立用户选定的视觉风格；v0.5 增加当前进程排行、托盘摘要和可选通知；v0.6 正在增加本次运行内的高负载回看。
 
-- [工作纲领](docs/WORKING-CHARTER.md)：优先级、设计与工程规则、验证证据和发布门槛。
-- [长期路线图](docs/ROADMAP.md)：v0.4 至稳定版本的阶段目标、能力边界与进入条件。
 - [v0.4 计划](docs/v0.4-plan.md)：实施顺序、逐项验收、交付清单。
 - [v0.4 验收记录](docs/v0.4-release-verification.md)：自动检查、原生窗口验证和仍待验证的项目。
 - [v0.5 负载感知计划](docs/superpowers/plans/2026-10-27-system-awareness.md)：实施范围、顺序和验收标准。
